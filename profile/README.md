@@ -10,5 +10,5 @@ CCZU OSSA是[CCZU OSA](https://github.com/cczu-osa)的延续者，是CCZU的非�
 
 ## 点击加入 🔥
 
- - Discord: [![Discord](https://discord.com/api/guilds/1152430589799039116/widget.png)](https://discord.gg/eKKxprMz)
+ - Discord: [![Discord](https://discord.com/api/guilds/1152430589799039116/widget.png)](https://discord.gg/hkkmsQaBGQ)
  - QQ: [947560153](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6wgGLJ_NmKQl7f9Ws6JAprbTwmG9Ouei&authKey=g7bXX%2Bn2dHlbecf%2B8QfGJ15IFVOmEdGTJuoLYfviLg7TZIsZCu45sngzZfL3KktN&noverify=0&group_code=947560153)
